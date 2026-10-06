@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="8" fill="#B23A2E"/>
+  <rect x="40" y="34" width="10" height="64" rx="3" fill="#B23A2E"/>
+  <text x="490" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#1F1B16">开发者定律大全 · 中文版</text>
+  <text x="490" y="128" text-anchor="middle" font-size="20" fill="#1F1B16">汇聚软件开发者必读的定律 · 原理 · 模式 · 理论</text>
+  <g font-size="16" font-weight="600" text-anchor="middle">
+    <rect x="150" y="176" width="150" height="38" rx="19" fill="#B23A2E"/>
+    <text x="225" y="201" fill="#FAF6EF">★ 27,000+</text>
+    <rect x="320" y="176" width="150" height="38" rx="19" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="395" y="201" fill="#B23A2E">7 章节</text>
+    <rect x="490" y="176" width="150" height="38" rx="19" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="565" y="201" fill="#B23A2E">69 条定律</text>
+    <rect x="660" y="176" width="150" height="38" rx="19" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="735" y="201" fill="#B23A2E">CC BY-SA</text>
+  </g>
+</svg>

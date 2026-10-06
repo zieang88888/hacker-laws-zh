@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <text x="480" y="46" text-anchor="middle" font-size="24" font-weight="700" fill="#1F1B16">数据一览</text>
+  <g text-anchor="middle">
+    <rect x="30" y="70" width="210" height="200" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="135" y="160" font-size="52" font-weight="700" fill="#B23A2E">27,306</text>
+    <text x="135" y="210" font-size="18" fill="#1F1B16">源仓 Star 数</text>
+
+    <rect x="260" y="70" width="210" height="200" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="365" y="160" font-size="52" font-weight="700" fill="#B23A2E">7</text>
+    <text x="365" y="210" font-size="18" fill="#1F1B16">章节（## 级）</text>
+
+    <rect x="490" y="70" width="210" height="200" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="595" y="160" font-size="52" font-weight="700" fill="#B23A2E">69</text>
+    <text x="595" y="210" font-size="18" fill="#1F1B16">定律条目（### 级）</text>
+
+    <rect x="720" y="70" width="210" height="200" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <text x="825" y="160" font-size="52" font-weight="700" fill="#B23A2E">12</text>
+    <text x="825" y="210" font-size="18" fill="#1F1B16">精选速查条数</text>
+  </g>
+</svg>

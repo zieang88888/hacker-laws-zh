@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <g text-anchor="middle">
+    <rect x="40" y="40" width="260" height="140" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="80" cy="80" r="18" fill="#B23A2E"/>
+    <text x="80" y="87" font-size="18" font-weight="700" fill="#FAF6EF">1</text>
+    <text x="175" y="88" font-size="22" font-weight="700" fill="#1F1B16">翻分节</text>
+    <text x="175" y="130" font-size="14" fill="#1F1B16">按 Laws / Principles 定位</text>
+
+    <path d="M312 110 L338 110 M330 102 L340 110 L330 118" stroke="#B23A2E" stroke-width="3" fill="none"/>
+
+    <rect x="350" y="40" width="260" height="140" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="390" cy="80" r="18" fill="#B23A2E"/>
+    <text x="390" y="87" font-size="18" font-weight="700" fill="#FAF6EF">2</text>
+    <text x="485" y="88" font-size="22" font-weight="700" fill="#1F1B16">查定律</text>
+    <text x="485" y="130" font-size="14" fill="#1F1B16">中文译名 + 一句话核心</text>
+
+    <path d="M622 110 L648 110 M640 102 L650 110 L640 118" stroke="#B23A2E" stroke-width="3" fill="none"/>
+
+    <rect x="660" y="40" width="260" height="140" rx="12" fill="none" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="700" cy="80" r="18" fill="#B23A2E"/>
+    <text x="700" y="87" font-size="18" font-weight="700" fill="#FAF6EF">3</text>
+    <text x="795" y="88" font-size="22" font-weight="700" fill="#1F1B16">用在项目</text>
+    <text x="795" y="130" font-size="14" fill="#1F1B16">架构·排期·团队沟通套用</text>
+  </g>
+</svg>
